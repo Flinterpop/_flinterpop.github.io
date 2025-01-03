@@ -65,7 +65,7 @@ author:
       url: "https://"
     - label: "Bluesky"
       icon: "fab fa-brands fa-bluesky"
-      url: "bmg62.bsky.social"
+      url: "https://bsky.app.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
