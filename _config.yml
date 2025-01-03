@@ -65,7 +65,7 @@ author:
       url: "https://"
     - label: "Bluesky"
       icon: "fab fa-brands fa-bluesky"
-      url: "https://bsky.app/"
+      url: "bmg62.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -76,7 +76,7 @@ author:
 footer:
   links:
     - label: "Bluesky"
-      icon: "fab fa-fw fa-bluesky-square"
+      icon: "fab fa-brands fa-bluesky"
       url: "https://bsky.app.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
