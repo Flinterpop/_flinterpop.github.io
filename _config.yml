@@ -68,13 +68,13 @@ author:
       url: "https://github.com/"
     - label: "Bluesky"
       icon: "fab fa-brands fa-bluesky"
-      url: "https://bsky.app.com/"
+      url: "https://bsky.app/"
       
 footer:
   links:
     - label: "Bluesky"
       icon: "fab fa-brands fa-bluesky"
-      url: "https://bsky.app.com/"
+      url: "https://bsky.app/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
